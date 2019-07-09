@@ -50,5 +50,5 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 * [Python Challenges](http://www.pythonchallenge.com): Fun!
 * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2017): Great collection of both references and examples. Highly recommend!
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): More examples.
-* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice intro to fairly complex statistical methods with very little math. Highly recommend! Example code is in R, but explanations are helpful in general.
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com): Quick course on statistics and Python with examples.
+* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice intro to fairly complex statistical methods with very little math. Highly recommend! Example code is in R, but explanations are helpful in general. Note that this is a bit longer and more indepth than the options above.
