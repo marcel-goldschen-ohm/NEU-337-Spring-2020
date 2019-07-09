@@ -47,6 +47,8 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 5. *To make sure you do not overwrite any homework assignment files, I recommend copying all of the homeworks into a separate folder on your computer rather than editing the files directly in the GitHub repository folder.*
 
 ## Resources
+* [Python Challenges](http://www.pythonchallenge.com): Fun!
 * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2017): Great collection of both references and examples. Highly recommend!
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): More examples.
-* [Python Challenges](http://www.pythonchallenge.com): Fun!
+* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice intro to fairly complex statistical methods with very little math. Highly recommend! Example code is in R, but explanations are helpful in general.
+* [Computational and Inferential Thinking](https://www.inferentialthinking.com): Quick course on statistics and Python with examples.
