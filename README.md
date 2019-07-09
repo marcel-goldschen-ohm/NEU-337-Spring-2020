@@ -47,4 +47,6 @@ Note, once you've registered you can also use MATLAB via an online interface tha
 5. *To make sure you do not overwrite any homework assignment files, I recommend copying all of the homeworks into a separate folder on your computer rather than editing the files directly in the GitHub repository folder.*
 
 ## Resources
-
+* [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2017): Great collection of both references and examples. Highly recommend!
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): More examples.
+* [Python Challenges](http://www.pythonchallenge.com): Fun!
