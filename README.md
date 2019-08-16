@@ -4,7 +4,7 @@
 
 ## Course Objective
 
-The ability to read and write are obvious fundamental skills critical to all academic pursuits. Fast approaching this level of fundamental importance for neuroscience as well as many other disciplines is the ability to write computer programs to analyze and manipulate data sets ever increasing in richness and size. This skillset will allow you to explore the world in new ways by uncovering aspects and relationships not immediately obvious to direct human analysis due to the shear size or complexity of the data being examined. Leveraging computational power of modern machines can also drastically speed the rate of scientific advancement.
+The ability to read and write are obvious fundamental skills critical to all academic pursuits. Fast approaching this level of fundamental importance for neuroscience as well as many other disciplines is the ability to write computer programs to analyze and manipulate data sets ever increasing in richness and size. This skillset is necessary to work with a wide array of experimental systems whose models and behavior are sufficienlty complex to make analysis by hand intractable. You can also directly apply these skills to data analysis in many other fields, both academic and otherwise.
 
 In this course you will learn how to translate problems/senarios into code to obtain insight into data and observations relevant to neuroscience. We will use Python as our primary learning tool, and you will be exposed to some of the available resources and options for scientific computing.
 
