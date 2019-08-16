@@ -4,11 +4,16 @@
 
 ## Course Objective
 
+The ability to read and write are obvious fundamental skills critical to all academic pursuits. Fast approaching this level of fundamental importance for neuroscience as well as many other disciplines is the ability to write computer programs to analyze and manipulate data sets ever increasing in richness and size. The ability to do this allows us to see the world in new ways by uncovering aspects and relationships not immediately obvious to direct human analysis due to the shear size or complexity of the data being examined. Leveraging computational power of modern machines can also drastically speed the rate of scientific advancement.
+
+In this course you will learn how to translate problems/senarios into code to obtain insight into data and observations relevant to neuroscience. We will use Python as our primary learning tool, and you will be exposed to some of the available resources and options for scientific computing.
 
 ## Requirements
 
+There are no absolute requirements for the course, but you are expected to be familiar with basic mathematical functions, i.e. $y(x) = 8 x^2 + 3$. Prior experience with programming and familiarity with basic matrix multiplicaiton will also be helpful, but are not necessary.
 
 ## Syllabus
+
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
 
