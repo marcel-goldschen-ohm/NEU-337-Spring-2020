@@ -10,7 +10,7 @@ In this course you will learn how to translate problems/senarios into code to ob
 
 ## Requirements
 
-There are no absolute requirements for the course, but you are expected to be familiar with basic mathematical functions, i.e. $y(x) = 8 x^2 + 3$. Prior experience with programming and familiarity with basic matrix multiplicaiton will also be helpful, but are not necessary.
+There are no absolute requirements for the course, but you are expected to be familiar with basic mathematical functions, i.e. y(x) = 8 x^2 + 3. Prior experience with programming and familiarity with basic matrix multiplicaiton will also be helpful, but are not necessary.
 
 ## Syllabus
 
