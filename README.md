@@ -8,7 +8,7 @@
 
 **In this course you will translate problems into code applying modern approaches for data analysis, statistical inference and modeling to various levels of neural systems and their component behavior.** We will use Python as a coding environment, and you will be exposed to resources and options for scientific computing.
  
- Although geared for neuroscience, the approaches covered in this course are highly salient for a wide array of applications.
+ *Although geared for neuroscience, the approaches covered in this course are highly salient for a wide array of applications.*
 
 ## Requirements
 
