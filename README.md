@@ -12,7 +12,7 @@
 
 ## Requirements
 
-There are no absolute requirements for the course, but you are expected to be familiar with basic mathematical functions, i.e. y(x) = 8 x^2 + 3, and you will be expected to numerically quantify your results. Prior experience with programming and familiarity with basic matrix multiplication will also be helpful, but are not necessary.
+There are no absolute prerequisites for the course, but you are expected to be familiar with basic mathematical functions, i.e. y(x) = 8 x^2 + 3, and you will be expected to numerically quantify your results. Prior experience with programming and familiarity with basic matrix multiplication will also be helpful, but are not necessary.
 
 ## Syllabus
 
