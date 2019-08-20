@@ -46,7 +46,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * **Jan-21-T: Introduction to programming and Python.**
     * *Objectives:*
         * You will be able to run Python code in the Jupyter notebook environemnt.
-        * You will practice translating word problems -> pseudo code -> code.
+        * You will practice translating word problems --> pseudo code --> code.
         * You will be able to associate values with appropriate variable types.
         * You will be able to index and iterate over arrays of values.
         * You will be able to write functions.
