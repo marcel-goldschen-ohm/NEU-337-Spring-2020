@@ -30,7 +30,7 @@ There are no absolute prerequisites for the course, but you are expected to be f
 
 Times:
 
-Location: NHB 4.352 or 4.402 (they're right around the corner from each other, so check both locations!)
+Location: NHB 4.352 or 4.402 (*they're right around the corner from each other, so check both locations!*)
 
 ## TA Office Hours
 
