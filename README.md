@@ -10,9 +10,17 @@
  
  *Although geared for neuroscience, the approaches covered in this course are highly salient for a wide array of applications.*
 
+## Course Prerequisites
+
+There are no absolute prerequisites for the course, but you are expected to be familiar with basic mathematical functions, i.e. y(x) = 8 x^2 + 3, and you will be expected to numerically quantify results. Prior experience with programming and familiarity with basic matrix multiplication will also be helpful, but are not necessary as they will be introduced.
+
 ## Requirements
 
-There are no absolute prerequisites for the course, but you are expected to be familiar with basic mathematical functions, i.e. y(x) = 8 x^2 + 3, and you will be expected to numerically quantify your results. Prior experience with programming and familiarity with basic matrix multiplication will also be helpful, but are not necessary.
+* You must bring a laptop to class for hands on participation. If you do not own a laptop, contact your department or the College of Natural Sciences to obtain a loaner for the duration of the course.
+* Install Python on the laptop you will bring to class (see instructions below).
+* Attend class both motivated and prepared to work hard!
+* Conduct yourself in a respectful manner at all times.
+* Have fun!
 
 ## Syllabus
 
