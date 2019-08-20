@@ -69,7 +69,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will appreciate that without NumPy ndarray, Python would NOT be a very useful language for science or data analysis.
         * You will be introduced to Numba as another method to accelerate code.
         * You will discuss the pitfall of unecessary code optimization.
-* **Jan-28-T: Random Walk Lab - simulations related to molecular diffusion**
+* **Jan-28-T: Random Walk Lab - molecular diffusion as a consequence of randomness**
     * *Objectives:*
         * You will be able to generate random numbers.
         * You will be able to plot data points in 2 or 3 dimensions.
