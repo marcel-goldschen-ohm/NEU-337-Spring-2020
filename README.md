@@ -54,9 +54,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Mar-05-R
 * Mar-10-T
 * Mar-12-R
-
-SPRING BREAK
-
+* Mar-17-T SPRING BREAK
+* Mar-19-R SPRING BREAK
 * Mar-24-T
 * Mar-26-R
 * Mar-31-T
@@ -71,7 +70,6 @@ SPRING BREAK
 * Apr-30-R
 * May-05-T
 * May-07-R
-
 * May 13-16 18-19 Final Exam
 
 ## Grading
