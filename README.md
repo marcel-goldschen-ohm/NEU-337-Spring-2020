@@ -22,17 +22,21 @@ There are no absolute prerequisites for the course, but you are expected to be f
 * Conduct yourself in a respectful manner at all times.
 * Have fun!
 
+## Contact
+
+**Please do NOT email me directly.** Either message me through the course Canvas site or visit during office hours.
+
+## Office Hours
+
+To be determined.
+
 ## Syllabus
 
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
-## Contact
-
-* Marcel Goldschen-Ohm: Do **NOT** email me directly. Please message me through the course Canvas site.
-
-
 ## Grading
 
+TO be determined.
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (latest version 3.x) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
