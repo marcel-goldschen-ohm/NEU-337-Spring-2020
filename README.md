@@ -43,7 +43,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 ## Policies
 
-* Students with disabilities may request appropriate academic accommodations from the Division of Diversity and Community Engagement, [http://www.utexas.edu/diversity/ddce/ssd/](Services for Students with Disabilities) (471-6259).
+* Students with disabilities may request appropriate academic accommodations from the Division of Diversity and Community Engagement, [Services for Students with Disabilities](http://www.utexas.edu/diversity/ddce/ssd/) (471-6259).
 
 ## Syllabus
 
