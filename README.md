@@ -55,8 +55,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will practice translating word problems --> pseudo code --> code.
         * You will be able to associate values with appropriate variable types.
         * You will be able to index and iterate over arrays of values.
-        * You will be able to write functions.
-        * You will discuss the benefits of using comments, variable names and functions to enhance code readability.
+        * You will discuss the benefits of using comments and variable names to enhance code readability.
         * You will understand the advantages and potential pitfalls of mutable objects.
 * **Jan-23-R: Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
     * *Objectives:*
@@ -75,9 +74,30 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to plot data points in 2 or 3 dimensions.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
-* Jan-30-R:
-* Feb-04-T:
-* Feb-06-R:
+* **Jan-30-R: Functions, zipping/unpacking, list comprehensions and classes (object-oriented programming)**
+    * *Objectives:*
+        * You will be able to create and use functions.
+        * You will be able to zip and unpack arrays.
+        * You will be able to use list comprehensions.
+        * You will be able to create and use classes.
+        * You will appreciate that most available Python code is constructed as classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
+    * *Extra Credit:*
+        * Generators. Why the bother?
+* **Feb-04-T: Probability Density Functions (PDFs) and Probability Mass Functions (PMFs)**
+    * *Objectives:*
+        * You will understand how randomness can give rise to normally or exponentially distributed observations.
+        * You will be able to obtain a probability from a PDF.
+        * You will understand the difference between a probability and a likelihood.
+        * You will be able to obtain parameters for normal or exponential PDFs that maximize their likelihood of explaining some data.
+        * You will be able to plot data distributions overlaid with best fit PDFs.
+        * You will understand how randomness can give rise to binomially or poisson distributed observations.
+        * You will understand the difference between a PDF and a PMF.
+        * You will be able to plot data distributions overlaid with best fit PMFs.
+* **Feb-06-R: Curve Fitting and Maximum Likelihood Optimization**
+    * *Objectives:*
+        * You will be able to apply minimization algorithms to optimize the fit between a function and some data.
+        * You will be able to enforce constraints such as parameter bounds and relations during optimization.
+        * You will apply these concepts to obtain parameters for binomial or poisson PMFs that maximize their likelihood of explaining some data.
 * Feb-11-T:
 * Feb-13-R:
 * Feb-18-T:
