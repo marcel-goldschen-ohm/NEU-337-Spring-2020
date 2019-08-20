@@ -26,6 +26,10 @@ There are no absolute prerequisites for the course, but you are expected to be f
 
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
+## Contact
+
+* Marcel Goldschen-Ohm: Do **NOT** email me directly. Please message me through the course Canvas site.
+
 
 ## Grading
 
