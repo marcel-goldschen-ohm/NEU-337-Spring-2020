@@ -13,7 +13,7 @@
 
 ## Course Prerequisites
 
-There are no absolute prerequisites for the course, but you are expected to be familiar with basic mathematical functions, i.e. y(x) = 8 x^2 + 3, and you will be expected to numerically quantify results. Prior experience with programming and familiarity with basic matrix multiplication will also be helpful, but are not necessary as they will be introduced.
+There are no absolute prerequisites for the course, but you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calcualtions. Prior experience with programming and familiarity with matrix multiplication will be helpful, but is not necessary as they will be introduced.
 
 ## Requirements
 
