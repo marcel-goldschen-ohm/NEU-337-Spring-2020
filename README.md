@@ -1,4 +1,4 @@
-# NEU 337 - Spring 2020
+# NEU 337 - Spring 2020 (unique #)
 # Programing and Data Analysis for Modern Neuroscience
 
 **!!! PLEASE INSTALL Python and JupyterLab PRIOR TO THE FIRST CLASS** (see instructions below). If you run into any troubles, *DO NOT FRET*. First, post your questions on Canvas to get help. Second, talk to fellow students or come to office hours to get squared away. As long as you get everything installed by the end of the first week, you should be fine.
@@ -10,6 +10,23 @@
 **In this course you will translate problems into code applying modern approaches for data analysis, statistical inference and modeling to various levels of neural systems and their component behavior.** We will use Python as a coding environment, and you will be exposed to resources and options for scientific computing.
  
  *Although geared for neuroscience, the approaches covered in this course are highly salient for a wide array of applications.*
+
+## Course Details
+
+    Times: TR
+    Location:
+
+    Instructor: Marcel Goldschen-Ohm
+    Office: NHB 4.352
+    **Please DO NOT email me directly.** Either message me through the course Canvas site or visit during office hours.
+    Office hours: - If no one is in my office, check the conference room NHB 4.402 right around the corner!
+
+    TA:
+    Office hours:
+
+## I'm confused, but my schedule makes attending office hours difficult. What do I do?
+
+**!!! POST YOUR QUESTIONS ON CANVAS** where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
 
 ## Course Prerequisites
 
@@ -23,21 +40,13 @@ There are no absolute prerequisites for the course, but you are expected to be f
 * Conduct yourself in a respectful manner at all times.
 * Have fun!
 
-## Contact
+## Academic Integrity
 
-**Please DO NOT email me directly.** Either message me through the course Canvas site or visit during office hours.
+It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, please include a note on your assignment indicating with whom you collaborated. Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the homeworks is exactly the skillset you are here to obtain.** By not practicing these skills, you are primarily hurting yourself.
 
-## My Office Hours
+## Policies
 
-Times:
-
-Location: NHB 4.352 or 4.402 (*they're right around the corner from each other, so check both locations!*)
-
-## TA Office Hours
-
-## I'm confused, but my schedule makes attending office hours difficult. What do I do?
-
-**!!! POST YOUR QUESTIONS ON CANVAS** where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
+* Students with disabilities may request appropriate academic accommodations from the Division of Diversity and Community Engagement, [http://www.utexas.edu/diversity/ddce/ssd/](Services for Students with Disabilities) (471-6259).
 
 ## Syllabus
 
