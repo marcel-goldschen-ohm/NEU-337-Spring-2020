@@ -49,7 +49,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
-* **Jan-21-T: Introduction to programming and Python.**
+* Jan-21-T: **Introduction to programming and Python.**
     * *Objectives:*
         * You will be able to run Python code in the Jupyter notebook environemnt.
         * You will practice translating word problems --> pseudo code --> code.
@@ -57,7 +57,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to index and iterate over arrays of values.
         * You will discuss the benefits of using comments and variable names to enhance code readability.
         * You will understand the advantages and potential pitfalls of mutable objects.
-* **Jan-23-R: Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
+* Jan-23-R: **Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
     * *Objectives:*
         * You will be able to import and use modules.
         * You will be able to manipulate multi-dimensional data arrays using NumPy ndarrays.
