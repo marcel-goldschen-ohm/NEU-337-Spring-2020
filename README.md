@@ -26,11 +26,13 @@ There are no absolute prerequisites for the course, but you are expected to be f
 
 **Please do NOT email me directly.** Either message me through the course Canvas site or visit during office hours.
 
-## Office Hours
+## My Office Hours
 
 Times:
 
 Location: NHB 4.352 or 4.402 (they're right around the corner from each other, so check both locations!)
+
+## TA Office Hours
 
 ## Syllabus
 
