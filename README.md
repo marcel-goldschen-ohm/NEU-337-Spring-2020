@@ -83,7 +83,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will appreciate that most available Python code is constructed as classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
     * *Extra Credit:*
         * Generators. Why the bother?
-* Feb-04-T: **Probability Density Functions (PDFs) and Probability Mass Functions (PMFs)**
+* Feb-04-T: **Probability Density/Mass Functions (PDFs/PMFs)**
     * *Objectives:*
         * You will understand how randomness can give rise to normally or exponentially distributed observations.
         * You will be able to obtain a probability from a PDF.
@@ -97,6 +97,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * *Objectives:*
         * You will be able to apply minimization algorithms to optimize the fit between a function and some data.
         * You will be able to enforce constraints such as parameter bounds and relations during optimization.
+        * You will understand the benefit of working with loglikelihoods instead of likelihoods.
         * You will apply these concepts to obtain parameters for binomial or poisson PMFs that maximize their likelihood of explaining some data.
 * Feb-11-T: **Hypothesis Testing and the Central Limit Theorem**
     * *Objectives:*
@@ -117,14 +118,47 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will understand for what specific question a permutaion test is relevant.
         * You will understand the difference between parametric and nonparametric tests.
         * You will be able to list one benefit and one downside to nonparametric tests like bootstrap and permutation tests as compared to parameteric tests.
-* Feb-18-T:
-* Feb-20-R:
-* Feb-25-T:
-* Feb-27-R:
-* Mar-03-T:
-* Mar-05-R:
-* Mar-10-T:
-* Mar-12-R:
+* Feb-18-T: **Timeseries**
+    * *Objectives:*
+        * You will be able to explain the concepts of sampling, Nyquist frequency, subsampling and aliasing.
+        * You will be able to quantify the autocorrelation of a timeseries, and explain what it means.
+        * You will be able to apply Fourier analysis to a time series and explain what the frequency domain features represent.
+        * You will be able to predict how changes in frequency domain components will affect the time domain signal.
+        * You will be able to plot a power spectrum for a timeseries and interpret it.
+        * You will be able to plot a spectrogram for a timeseries and interpret it.
+* Feb-20-R: **Filtering**
+    * *Objectives:*
+        * You will be able to filter a timeseries by manipulating its Fourier frequency domain.
+        * You will be able to filter a timeseries by convolving it with another timeseries.
+        * You will be able to predict the result of filtering by convolution with simple functions. 
+        * You will be able to subsample without aliasing.
+        * You will be able to visualize 2D images.
+        * You will be able to filter 2D image filters using convolution.
+        * Motivate: Convolutional Neural Networks (CNNs) that are the basis for most image recognition.
+* Feb-25-T: **Feature detection**
+    * *Objectives:*
+        * Detecting image features using filters.
+        * Detecting timeseries features.
+* Feb-27-R: **Hidden Markov Models (HMMs)**
+    * *Objectives:*
+        * Single-channel recordings --> discrete states
+        * Memoryless
+        * Rate constants
+        * Eyring transition state theory
+        * Exponential (geometric) dwell time distributions
+        * Number of distinguishable states
+        * Filtering single molecule timeseries
+* Mar-03-T: **Hidden Markov Models (HMMs)**
+    * *Objectives:*
+        * Non-observable states
+        * Gaussian Mixture Models (GMMs) <-- covered in clustering section
+        * Baum-Welch optimization
+        * Which model is best?
+        * Bayesian and Akaike Information Criteria
+* Mar-05-R: **Hidden Markov Models (HMMs)**
+    * *Objectives:*
+* Mar-10-T: **Midterm Exam**
+* Mar-12-R: **Review**
 * Mar-17-T: SPRING BREAK
 * Mar-19-R: SPRING BREAK
 * Mar-24-T:
