@@ -1,6 +1,7 @@
 # NEU 337 - Spring 2020
 # Programing and Data Analysis for Modern Neuroscience
 
+**!!! PLEASE INSTALL Python and JupyterLab PRIOR TO THE FIRST CLASS** (see instructions below). If you run into any troubles, *DO NOT FRET*. First, post your questions on Canvas to get help. Second, talk to fellow students or come to office hours to get squared away. As long as you get everything installed by the first week, you should be fine.
 
 ## Course Objective
 
@@ -24,7 +25,7 @@ There are no absolute prerequisites for the course, but you are expected to be f
 
 ## Contact
 
-**Please do NOT email me directly.** Either message me through the course Canvas site or visit during office hours.
+**Please DO NOT email me directly.** Either message me through the course Canvas site or visit during office hours.
 
 ## My Office Hours
 
@@ -34,12 +35,32 @@ Location: NHB 4.352 or 4.402 (*they're right around the corner from each other, 
 
 ## TA Office Hours
 
+## I'm confused, but my schedule makes attending office hours difficult. What do I do?
+
+**!!! POST YOUR QUESTIONS ON CANVAS** where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
+
 ## Syllabus
 
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
-* Jan-21-T:
-* Jan-23-R:
+* Jan-21-T: Introduction to programming and Python.
+    * Objectives:
+        * You will be able to run Python code in the Jupyter notebook environemnt.
+        * You will practice translating word problems -> pseudo code -> code.
+        * You will be able to associate values with appropriate variable types.
+        * You will be able to index and iterate over arrays of values.
+        * You will be able to write functions.
+        * You will discuss the benefits of using comments, variable names and functions to enhance code readability.
+        * You will understand the advantages and potential pitfalls of mutable objects.
+* Jan-23-R: Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.
+    * Objectives:
+        * You will be able to manipulate multi-dimensional data arrays using NumPy ndarrays.
+        * You will be able to extract/manipulate specific sections of data from ndarrays.
+        * You will be able to perform operations on ndarrays without explicilty coding the operation for each element in the array.
+        * You will be able to time your code.
+        * You will explore how NumPy can accelerate your code.
+        * You will appreciate that without NumPy ndarray, Python would NOT be a very useful language for science or data analysis.
+        * You will be introduced to Numba as another method to accelerate code.
 * Jan-28-T:
 * Jan-30-R:
 * Feb-04-T:
