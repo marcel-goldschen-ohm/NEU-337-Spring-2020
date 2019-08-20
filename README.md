@@ -43,8 +43,8 @@ Location: NHB 4.352 or 4.402 (*they're right around the corner from each other, 
 
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
-* Jan-21-T: Introduction to programming and Python.
-    * Objectives:
+* **Jan-21-T: Introduction to programming and Python.**
+    * *Objectives:*
         * You will be able to run Python code in the Jupyter notebook environemnt.
         * You will practice translating word problems -> pseudo code -> code.
         * You will be able to associate values with appropriate variable types.
@@ -52,8 +52,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to write functions.
         * You will discuss the benefits of using comments, variable names and functions to enhance code readability.
         * You will understand the advantages and potential pitfalls of mutable objects.
-* Jan-23-R: Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.
-    * Objectives:
+* **Jan-23-R: Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
+    * *Objectives:*
         * You will be able to manipulate multi-dimensional data arrays using NumPy ndarrays.
         * You will be able to extract/manipulate specific sections of data from ndarrays.
         * You will be able to perform operations on ndarrays without explicilty coding the operation for each element in the array.
