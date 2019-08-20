@@ -18,7 +18,7 @@
 
     Instructor: Marcel Goldschen-Ohm
     Office: NHB 4.352
-    **Please DO NOT email me directly.** Either message me through the course Canvas site or visit during office hours.
+    Please DO NOT email me directly! Either message me through the course Canvas site or visit during office hours.
     Office hours: - If no one is in my office, check the conference room NHB 4.402 right around the corner!
 
     TA:
