@@ -28,6 +28,10 @@ There are no absolute prerequisites for the course, but you are expected to be f
 
 ## Office Hours
 
+Times:
+
+Location: NHB 4.352 or 4.402 (they're right around the corner from each other, so check both locations!)
+
 ## Syllabus
 
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
