@@ -74,7 +74,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to plot data points in 2 or 3 dimensions.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
-* Jan-30-R: **Functions, zipping/unpacking, list comprehensions and classes (object-oriented programming)**
+* Jan-30-R: **Functions, zipping/unpacking, list comprehensions and classes (Object-Oriented Programming, OOP)**
     * *Objectives:*
         * You will be able to create and use functions.
         * You will be able to zip and unpack arrays.
@@ -98,8 +98,25 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to apply minimization algorithms to optimize the fit between a function and some data.
         * You will be able to enforce constraints such as parameter bounds and relations during optimization.
         * You will apply these concepts to obtain parameters for binomial or poisson PMFs that maximize their likelihood of explaining some data.
-* Feb-11-T:
-* Feb-13-R:
+* Feb-11-T: **Hypothesis Testing and the Central Limit Theorem**
+    * *Objectives:*
+        * You will understand how to formulate a null and alternative hypothesis.
+        * You will understand what a p-value is.
+        * You will understand how to interpret a p-value and how they are often misinterpreted.
+        * You will be able to apply a t-test.
+        * You will understand what sort of data a t-test is relevant for.
+        * You will understand why the Central Limit Theorem implies that t-tests are useful in many, although not all, cases.
+        * You will be able to describe types of data where t-tests are not likely to be applicable.
+    * *Extra Credit:*
+        * Write code illustrating the Central Limit Theorem.
+* Feb-13-R: **Bootstrap and Permutation tests**
+    * *Objectives:*
+        * You will be able to bootstrap a data set.
+        * You will understand why bootstrapping is useful and under what circumstances it will not help you.
+        * You will be able to apply a permutation test to a data set.
+        * You will understand for what specific question a permutaion test is relevant.
+        * You will understand the difference between parametric and nonparametric tests.
+        * You will be able to list one benefit and one downside to nonparametric tests like bootstrap and permutation tests as compared to parameteric tests.
 * Feb-18-T:
 * Feb-20-R:
 * Feb-25-T:
