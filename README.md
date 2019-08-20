@@ -38,39 +38,39 @@ Location: NHB 4.352 or 4.402 (*they're right around the corner from each other, 
 
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
-* Jan-21-T
-* Jan-23-R
-* Jan-28-T
-* Jan-30-R
-* Feb-04-T
-* Feb-06-R
-* Feb-11-T
-* Feb-13-R
-* Feb-18-T
-* Feb-20-R
-* Feb-25-T
-* Feb-27-R
-* Mar-03-T
-* Mar-05-R
-* Mar-10-T
-* Mar-12-R
-* Mar-17-T SPRING BREAK
-* Mar-19-R SPRING BREAK
-* Mar-24-T
-* Mar-26-R
-* Mar-31-T
-* Apr-02-R
-* Apr-07-T
-* Apr-09-R
-* Apr-14-T
-* Apr-16-R
-* Apr-21-T
-* Apr-23-R
-* Apr-28-T
-* Apr-30-R
-* May-05-T
-* May-07-R
-* May 13-16 18-19 Final Exam
+* Jan-21-T:
+* Jan-23-R:
+* Jan-28-T:
+* Jan-30-R:
+* Feb-04-T:
+* Feb-06-R:
+* Feb-11-T:
+* Feb-13-R:
+* Feb-18-T:
+* Feb-20-R:
+* Feb-25-T:
+* Feb-27-R:
+* Mar-03-T:
+* Mar-05-R:
+* Mar-10-T:
+* Mar-12-R:
+* Mar-17-T: SPRING BREAK
+* Mar-19-R: SPRING BREAK
+* Mar-24-T:
+* Mar-26-R:
+* Mar-31-T:
+* Apr-02-R:
+* Apr-07-T:
+* Apr-09-R:
+* Apr-14-T:
+* Apr-16-R:
+* Apr-21-T:
+* Apr-23-R:
+* Apr-28-T:
+* Apr-30-R:
+* May-05-T:
+* May-07-R:
+* May 13-16 18-19: Final Exam
 
 ## Grading
 
