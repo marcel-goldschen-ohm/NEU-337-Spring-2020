@@ -60,6 +60,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will understand the advantages and potential pitfalls of mutable objects.
 * **Jan-23-R: Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
     * *Objectives:*
+        * You will be able to import and use modules.
         * You will be able to manipulate multi-dimensional data arrays using NumPy ndarrays.
         * You will be able to extract/manipulate specific sections of data from ndarrays.
         * You will be able to perform operations on ndarrays without explicilty coding the operation for each element in the array.
@@ -68,7 +69,11 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will appreciate that without NumPy ndarray, Python would NOT be a very useful language for science or data analysis.
         * You will be introduced to Numba as another method to accelerate code.
         * You will discuss the pitfall of unecessary code optimization.
-* Jan-28-T:
+* **Jan-28-T: Random Walk Lab**
+    * *Objectives:*
+        * You will be able to generate random numbers.
+        * You will be able to plot data points in 2 or 3 dimensions.
+        * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
 * Jan-30-R:
 * Feb-04-T:
 * Feb-06-R:
