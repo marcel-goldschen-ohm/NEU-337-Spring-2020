@@ -68,6 +68,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
         * You will be introduced to Numba as another method to accelerate code.
         * You will discuss the pitfall of unecessary code optimization.
+    * *Data Sets:*
+        * Any multi-dimensional data? Perhaps several examples?
 * Jan-28-T: **Functions, zipping/unpacking, list comprehensions and classes (Object-Oriented Programming, OOP)**
     * *Objectives:*
         * You will be able to create and use functions.
@@ -83,6 +85,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to plot data points in 2 or 3 dimensions.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
+    * *Data Sets:*
+        * Visualize actual diffusion data?
 * Feb-04-T: **Probability Density/Mass Functions (PDFs/PMFs)**
     * *Objectives:*
         * You will understand how randomness can give rise to normally or exponentially distributed observations.
@@ -93,12 +97,18 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will understand how randomness can give rise to binomially or poisson distributed observations.
         * You will understand the difference between a PDF and a PMF.
         * You will be able to plot data distributions overlaid with best fit PMFs.
+    * *Data Sets:*
+        * Normally distributed data. Drug efficacy?
+        * Exponentially distributed data. Time intervals between neural spikes?
 * Feb-06-R: **Curve Fitting and Maximum Likelihood Optimization**
     * *Objectives:*
         * You will be able to apply minimization algorithms to optimize the fit between a function and some data.
         * You will be able to enforce constraints such as parameter bounds and relations during optimization.
         * You will understand the benefit of working with loglikelihoods instead of likelihoods.
         * You will apply these concepts to obtain parameters for binomial or poisson PMFs that maximize their likelihood of explaining some data.
+    * *Data Sets:*
+        * Poisson distributed data. Neural firing rates?
+        * Binomially distributed data. Single-molecule bleach steps.
 * Feb-11-T: **Hypothesis Testing and the Central Limit Theorem**
     * *Objectives:*
         * You will understand how to formulate a null and alternative hypothesis.
@@ -108,6 +118,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will understand what sort of data a t-test is relevant for.
         * You will understand why the Central Limit Theorem implies that t-tests are useful in many, although not all, cases.
         * You will be able to describe types of data where t-tests are not likely to be applicable.
+    * *Data Sets:*
+        * Independent and related samples for t-test. Maybe drug effects in new or same population as placebo.
     * *Extra Credit:*
         * Write code illustrating the Central Limit Theorem.
 * Feb-13-R: **Bootstrap and Permutation tests**
@@ -118,6 +130,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will understand for what specific question a permutaion test is relevant.
         * You will understand the difference between parametric and nonparametric tests.
         * You will be able to list one benefit and one downside to nonparametric tests like bootstrap and permutation tests as compared to parameteric tests.
+    * *Data Sets:*
+        * Time intervals between neural spikes before and after drug?
 * Feb-18-T: **Timeseries**
     * *Objectives:*
         * You will be able to explain the concepts of sampling, Nyquist frequency, subsampling and aliasing.
@@ -126,6 +140,10 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to predict how changes in frequency domain components will affect the time domain signal.
         * You will be able to plot a power spectrum for a timeseries and interpret it.
         * You will be able to plot a spectrogram for a timeseries and interpret it.
+    * *Data Sets:*
+        * Brain EEG, cardiac EEG.
+        * single cell membrane voltage in current-clamp.
+        * Single channel recording.
 * Feb-20-R: **Filtering**
     * *Objectives:*
         * You will be able to filter a timeseries by manipulating its Fourier frequency domain.
@@ -139,15 +157,18 @@ Please note that the syllabus is subject to change. It is your responsibility to
     * *Objectives:*
         * Detecting image features using filters.
         * Detecting timeseries features.
+    * *Data Sets:*
+        * EEG, Single cell or field potential membrane voltage.
 * Feb-27-R: **Hidden Markov Models (HMMs)**
     * *Objectives:*
-        * Single-channel recordings --> discrete states
         * Memoryless
         * Rate constants
         * Eyring transition state theory
         * Exponential (geometric) dwell time distributions
         * Number of distinguishable states
         * Filtering single molecule timeseries
+    * *Data Sets:*
+        * Single-channel recordings --> discrete states
 * Mar-03-T: **Hidden Markov Models (HMMs)**
     * *Objectives:*
         * Non-observable states
@@ -155,6 +176,9 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * Baum-Welch optimization
         * Which model is best?
         * Bayesian and Akaike Information Criteria
+    * *Data Sets:*
+        * Single cell membrane voltage --> refractory, approach threshold, spike
+        * Neural spiking --> low activity, high activity, bursting
 * Mar-05-R: **Hidden Markov Models (HMMs)**
     * *Objectives:*
 * Mar-10-T: **Midterm Exam**
