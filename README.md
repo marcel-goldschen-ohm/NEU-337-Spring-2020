@@ -65,7 +65,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to perform operations on ndarrays without explicilty coding the operation for each element in the array.
         * You will be able to time your code.
         * You will explore how NumPy can accelerate your code.
-        * You will appreciate that without NumPy ndarray, Python would NOT be a very useful language for science or data analysis.
+        * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
         * You will be introduced to Numba as another method to accelerate code.
         * You will discuss the pitfall of unecessary code optimization.
 * Jan-28-T: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness**
