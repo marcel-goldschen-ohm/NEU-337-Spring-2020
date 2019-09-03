@@ -55,7 +55,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will practice translating word problems --> pseudo code --> code.
         * You will be able to associate values with appropriate variable types.
         * You will be able to index and iterate over arrays of values.
-        * You will discuss the benefits of using comments and variable names to enhance code readability.
+        * You will explore the benefits of using comments and variable names to enhance code readability with your classmates.
         * You will understand the advantages and potential pitfalls of mutable objects.
 * Jan-23-R: **Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
     * *Objectives:*
