@@ -1,4 +1,4 @@
-# NEU 337 - Spring 2020 (unique #)
+# NEU 337 - Spring 2020 (53760)
 # Programing and Data Analysis for Modern Neuroscience
 
 **!!! PLEASE INSTALL Python and JupyterLab PRIOR TO THE FIRST CLASS** (see instructions below). If you run into any troubles, *DO NOT FRET*. First, post your questions on Canvas to get help. Second, talk to fellow students or come to office hours to get squared away. As long as you get everything installed by the end of the first week, you should be fine.
