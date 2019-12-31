@@ -65,7 +65,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will be introduced to some good rules of thumb for programming.
         * You will be able to run Python code in the Jupyter notebook environemnt.
         * You will be able to associate values with appropriate variable types.
-        * You will be able to index and iterate over lists of values.classmates.
+        * You will be able to index and iterate over lists of values.
         * You will understand the difference between mutable and immutable objects.
     * :pencil2: *Homework:*
         * (10 pts) homework-Jan-21-basics.ipynb (:alarm_clock: due *before* midnight Jan-28-T)
@@ -88,7 +88,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 * Jan-28-T: **Pseudocode and Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
     * :cyclone: *Objectives:*
         * You will practice translating algorithms/word problems --> pseudo code --> code.
-        * You will explore the benefits of using comments and variable names to enhance code readability with your fellow students.
+        * You will explore the benefits of using comments and variable names to enhance code readability with your fellow classmates.
         * You will be able to generate random numbers.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
