@@ -13,10 +13,10 @@
 
 ## Course Details
 
-* Time and Location: TR
+* Time and Location: TR 2:00-3:30 PM, JGB 2.202
 * Instructor: Marcel Goldschen-Ohm
     * Office: NHB 4.352
-    * Office hours: - If no one is in my office, check the conference room NHB 4.402 right around the corner!
+    * Office hours: R 3:30-5:00 PM, NHB 4.352 (or conference room 4.402 right around the corner)
     * **Please DO NOT email me directly!** Either message me through the course Canvas site or visit during office hours.
 * TA: Augustin Hennings
     * Office hours:
