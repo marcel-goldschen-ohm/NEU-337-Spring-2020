@@ -53,7 +53,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 ## Syllabus
 
-Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
+:warning: Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
 :construction: This syllabus is still a work in progress. Definitely look here first as there will be significant improvements, but the syllabus from last years course ([Spring 2019](https://github.com/marcel-goldschen-ohm/CompNeuroSpring2019)) will also give an impression of the topics to be covered.
 
