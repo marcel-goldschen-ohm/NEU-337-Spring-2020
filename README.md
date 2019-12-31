@@ -117,8 +117,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will understand how randomness can give rise to binomially or poisson distributed observations.
         * You will understand the difference between a PDF and a PMF.
         * You will be able to plot data distributions overlaid with best fit PMFs.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Feb-04.ipynb (:alarm_clock: due *before* midnight Feb-11-T)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-04.ipynb (:alarm_clock: due *before* midnight Feb-11-T)
     * *Data Sets:*
         * Normally distributed data. Drug efficacy?
         * Exponentially distributed data. Time intervals between neural spikes?
@@ -128,8 +128,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to enforce constraints such as parameter bounds and relations during optimization.
         * You will understand the benefit of working with loglikelihoods instead of likelihoods.
         * You will apply these concepts to obtain parameters for binomial or poisson PMFs that maximize their likelihood of explaining some data.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Feb-06.ipynb (:alarm_clock: due *before* midnight Feb-13-R)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-06.ipynb (:alarm_clock: due *before* midnight Feb-13-R)
     * *Data Sets:*
         * Poisson distributed data. Neural firing rates?
         * Binomially distributed data. Single-molecule bleach steps.
@@ -142,8 +142,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will understand what sort of data a t-test is relevant for.
         * You will understand why the Central Limit Theorem implies that t-tests are useful in many, although not all, cases.
         * You will be able to describe types of data where t-tests are not likely to be applicable.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Feb-11.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-11.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
     * *Data Sets:*
         * Independent and related samples for t-test. Maybe drug effects in new or same population as placebo.
     * *Extra Credit:*
@@ -156,8 +156,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will understand for what specific question a permutaion test is relevant.
         * You will understand the difference between parametric and nonparametric tests.
         * You will be able to list one benefit and one downside to nonparametric tests like bootstrap and permutation tests as compared to parameteric tests.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Feb-13.ipynb (:alarm_clock: due *before* midnight Feb-20-R)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-13.ipynb (:alarm_clock: due *before* midnight Feb-20-R)
     * *Data Sets:*
         * Time intervals between neural spikes before and after drug?
 * Feb-18-T: **Timeseries**
@@ -168,8 +168,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to predict how changes in frequency domain components will affect the time domain signal.
         * You will be able to plot a power spectrum for a timeseries and interpret it.
         * You will be able to plot a spectrogram for a timeseries and interpret it.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Feb-18.ipynb (:alarm_clock: due *before* midnight Feb-25-T)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-18.ipynb (:alarm_clock: due *before* midnight Feb-25-T)
     * *Data Sets:*
         * Brain EEG, cardiac EEG.
         * single cell membrane voltage in current-clamp.
@@ -183,14 +183,14 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to visualize 2D images.
         * You will be able to filter 2D image filters using convolution.
         * Motivate: Convolutional Neural Networks (CNNs) that are the basis for most image recognition.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Feb-20.ipynb (:alarm_clock: due *before* midnight Feb-27-R)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-20.ipynb (:alarm_clock: due *before* midnight Feb-27-R)
 * Feb-25-T: **Feature detection**
     * :cyclone: *Objectives:*
         * Detecting image features using filters.
         * Detecting timeseries features.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Feb-25.ipynb (:alarm_clock: due *before* midnight Mar-03-T)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-25.ipynb (:alarm_clock: due *before* midnight Mar-03-T)
     * *Data Sets:*
         * EEG, Single cell or field potential membrane voltage.
 * Feb-27-R: **Hidden Markov Models (HMMs)**
@@ -201,8 +201,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * Exponential (geometric) dwell time distributions
         * Number of distinguishable states
         * Filtering single molecule timeseries
-    * :pencil2: *Homework (10 pts):*
-        * homework-Feb-27.ipynb (:alarm_clock: due *before* midnight Mar-05-R)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-27.ipynb (:alarm_clock: due *before* midnight Mar-05-R)
     * *Data Sets:*
         * Single-channel recordings --> discrete states
 * Mar-03-T: **Hidden Markov Models (HMMs)**
@@ -212,8 +212,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * Baum-Welch optimization
         * Which model is best?
         * Bayesian and Akaike Information Criteria
-    * :pencil2: *Homework (10 pts):*
-        * homework-Mar-03.ipynb (:alarm_clock: due *before* midnight Mar-10-T)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Mar-03.ipynb (:alarm_clock: due *before* midnight Mar-10-T)
     * *Data Sets:*
         * Single cell membrane voltage --> refractory, approach threshold, spike
         * Neural spiking --> low activity, high activity, bursting
