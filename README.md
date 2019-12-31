@@ -56,15 +56,15 @@ Please note that the syllabus is subject to change. It is your responsibility to
 
 :construction: This syllabus is still a work in progress. Definitely look here first as there will be significant improvements, but the syllabus from last years course ([Spring 2019](https://github.com/marcel-goldschen-ohm/CompNeuroSpring2019)) will also give an impression of the topics to be covered.
 
+29 lectures, Midterm exam, Final exam
+
 * Jan-21-T: **Introduction to programming and Python.**
     * *Objectives:*
         * You will appreciate the need for programming in modern neuroscience.
         * You will be introduced to some good rules of thumb for programming.
         * You will be able to run Python code in the Jupyter notebook environemnt.
         * You will be able to associate values with appropriate variable types.
-        * You will be able to index and iterate over lists of values.
-        * >You will practice translating word problems --> pseudo code --> code.
-        * >You will explore the benefits of using comments and variable names to enhance code readability with your classmates.
+        * You will be able to index and iterate over lists of values.classmates.
         * You will understand the difference between mutable and immutable objects.
     * *Homework (10 pts):*
         * homework-Jan-21-basics.ipynb (due *before* midnight Jan-28-T)
@@ -79,15 +79,16 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
         * You will be introduced to Numba as another method to accelerate code.
         * You will discuss the pitfall of unecessary code optimization.
-        * YOu will be able to plot data for visualization.
+        * You will be able to visualize data with basic plots in 2 or 3 dimensions.
     * *Homework (10 pts):*
         * homework-Jan-23-numpy.ipynb (due *before* midnight Jan-30-R)
     * *Data Sets:*
         * Any multi-dimensional data? Perhaps several examples?
-* Jan-28-T: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness. Also basic 3D plotting.**
+* Jan-28-T: **Pseudocode and Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
     * *Objectives:*
+        * You will practice translating algorithms/word problems --> pseudo code --> code.
+        * You will explore the benefits of using comments and variable names to enhance code readability with your fellow students.
         * You will be able to generate random numbers.
-        * You will be able to plot data points in 2 or 3 dimensions.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
     * *Homework (20 pts):*
