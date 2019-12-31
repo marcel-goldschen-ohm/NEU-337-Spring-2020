@@ -45,6 +45,11 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 * Students with disabilities may request appropriate academic accommodations from the Division of Diversity and Community Engagement, [Services for Students with Disabilities](http://www.utexas.edu/diversity/ddce/ssd/) (471-6259).
 
+## Grading
+
+* Homework: 300 pts
+* Exams: 200 pts
+
 ## Syllabus
 
 Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
@@ -57,11 +62,13 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be introduced to some good rules of thumb for programming.
         * You will be able to run Python code in the Jupyter notebook environemnt.
         * You will be able to associate values with appropriate variable types.
-        * You will be able to index and iterate over arrays of values.
-        * You will practice translating word problems --> pseudo code --> code.
-        * You will explore the benefits of using comments and variable names to enhance code readability with your classmates.
-        * You will understand the advantages and potential pitfalls of mutable objects.
-* Jan-23-R: **Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
+        * You will be able to index and iterate over lists of values.
+        * >You will practice translating word problems --> pseudo code --> code.
+        * >You will explore the benefits of using comments and variable names to enhance code readability with your classmates.
+        * You will understand the difference between mutable and immutable objects.
+    * *Homework (10 pts):*
+        * homework-Jan-21-basics.ipynb (due *before* midnight Jan-28-T)
+* Jan-23-R: **Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome. Also basic plotting with matplotlib.**
     * *Objectives:*
         * You will be able to import and use modules.
         * You will be able to manipulate multi-dimensional data arrays using NumPy ndarrays.
@@ -72,9 +79,22 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
         * You will be introduced to Numba as another method to accelerate code.
         * You will discuss the pitfall of unecessary code optimization.
+        * YOu will be able to plot data for visualization.
+    * *Homework (10 pts):*
+        * homework-Jan-23-numpy.ipynb (due *before* midnight Jan-30-R)
     * *Data Sets:*
         * Any multi-dimensional data? Perhaps several examples?
-* Jan-28-T: **Functions, zipping/unpacking, list comprehensions and classes (Object-Oriented Programming, OOP)**
+* Jan-28-T: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness. Also basic 3D plotting.**
+    * *Objectives:*
+        * You will be able to generate random numbers.
+        * You will be able to plot data points in 2 or 3 dimensions.
+        * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
+        * You will appreciate the role of randomness in molecular diffusion.
+    * *Homework (20 pts):*
+        * homework-Jan-28-randomwalk.ipynb (due *before* midnight Feb-04-T)
+    * *Data Sets:*
+        * Visualize actual diffusion data?
+* Jan-30-R: **Functions, zipping/unpacking, list comprehensions and classes (Object-Oriented Programming, OOP)**
     * *Objectives:*
         * You will be able to create and use functions.
         * You will be able to zip and unpack arrays.
@@ -83,14 +103,6 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will appreciate that most available Python code is constructed as classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
     * *Extra Credit:*
         * Generators. Why the bother?
-* Jan-30-R: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness**
-    * *Objectives:*
-        * You will be able to generate random numbers.
-        * You will be able to plot data points in 2 or 3 dimensions.
-        * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
-        * You will appreciate the role of randomness in molecular diffusion.
-    * *Data Sets:*
-        * Visualize actual diffusion data?
 * Feb-04-T: **Probability Density/Mass Functions (PDFs/PMFs)**
     * *Objectives:*
         * You will understand how randomness can give rise to normally or exponentially distributed observations.
@@ -203,9 +215,7 @@ Please note that the syllabus is subject to change. It is your responsibility to
 * Apr-30-R:
 * May-05-T:
 * May-07-R:
-* May 13-16 18-19: Final Exam
-
-## Grading
+* May-??(13-16,18-19): Final Exam (date will be that scheduled by the University)
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (**latest version 3.x**) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
