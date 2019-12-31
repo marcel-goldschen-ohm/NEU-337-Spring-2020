@@ -67,8 +67,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to associate values with appropriate variable types.
         * You will be able to index and iterate over lists of values.classmates.
         * You will understand the difference between mutable and immutable objects.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Jan-21-basics.ipynb (:alarm_clock: due *before* midnight Jan-28-T)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Jan-21-basics.ipynb (:alarm_clock: due *before* midnight Jan-28-T)
 * Jan-23-R: **Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome. Also basic plotting with matplotlib.**
     * :cyclone: *Objectives:*
         * You will be able to import and use modules.
@@ -81,8 +81,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be introduced to Numba as another method to accelerate code.
         * You will discuss the pitfall of unecessary code optimization.
         * You will be able to visualize data with basic plots in 2 or 3 dimensions.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-30-R)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-30-R)
     * *Data Sets:*
         * Any multi-dimensional data? Perhaps several examples?
 * Jan-28-T: **Pseudocode and Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
@@ -92,8 +92,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to generate random numbers.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
-    * :pencil2: *Homework (20 pts):*
-        * homework-Jan-28-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
+    * :pencil2: *Homework:*
+        * (20 pts) homework-Jan-28-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
     * *Data Sets:*
         * Visualize actual diffusion data?
 * Jan-30-R: **Functions, zipping/unpacking, list comprehensions and classes (Object-Oriented Programming, OOP)**
@@ -103,8 +103,8 @@ Please note that the syllabus is subject to change. It is your responsibility to
         * You will be able to use list comprehensions.
         * You will be able to create and use classes.
         * You will appreciate that most available Python code is constructed as classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
-    * :pencil2: *Homework (10 pts):*
-        * homework-Jan-30.ipynb (:alarm_clock: due *before* midnight Feb-06-R)
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Jan-30.ipynb (:alarm_clock: due *before* midnight Feb-06-R)
     * *Extra Credit:*
         * Generators. Why the bother?
 * Feb-04-T: **Probability Density/Mass Functions (PDFs/PMFs)**
