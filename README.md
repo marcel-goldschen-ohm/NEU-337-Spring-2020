@@ -80,7 +80,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
         * You will be introduced to Numba as another method to accelerate code.
         * You will discuss the pitfall of unecessary code optimization.
-        * You will be able to visualize data with basic plots in 2 or 3 dimensions.
+        * You will be able to visualize data with basic plots.
     * :pencil2: *Homework:*
         * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-30-R)
     * *Data Sets:*
