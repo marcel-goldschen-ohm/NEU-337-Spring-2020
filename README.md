@@ -85,7 +85,19 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-30-R)
     * *Data Sets:*
         * Any multi-dimensional data? Perhaps several examples?
-* Jan-28-T: **Pseudocode and Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
+* Jan-28-T: **List comprehensions, Functions, Classes, Modules, etc.**
+    * :cyclone: *Objectives:*
+        * You will be able to zip and unpack arrays.
+        * You will be able to use list comprehensions.
+        * You will be able to create and use functions.
+        * You will be able to create and use classes.
+        * You will be able to create and use modules.
+        * You will appreciate that most available Python code is constructed as modules with classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Jan-30.ipynb (:alarm_clock: due *before* midnight Feb-06-R)
+    * *Extra Credit:*
+        * Generators. Why the bother?
+* Jan-30-R: **Pseudocode and Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
     * :cyclone: *Objectives:*
         * You will practice translating algorithms/word problems --> pseudo code --> code.
         * You will explore the benefits of using comments and variable names to enhance code readability with your fellow classmates.
@@ -96,17 +108,6 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * (20 pts) homework-Jan-28-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
     * *Data Sets:*
         * Visualize actual diffusion data?
-* Jan-30-R: **Functions, zipping/unpacking, list comprehensions and classes (Object-Oriented Programming, OOP)**
-    * :cyclone: *Objectives:*
-        * You will be able to create and use functions.
-        * You will be able to zip and unpack arrays.
-        * You will be able to use list comprehensions.
-        * You will be able to create and use classes.
-        * You will appreciate that most available Python code is constructed as classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Jan-30.ipynb (:alarm_clock: due *before* midnight Feb-06-R)
-    * *Extra Credit:*
-        * Generators. Why the bother?
 * Feb-04-T: **Probability Density/Mass Functions (PDFs/PMFs)**
     * :cyclone: *Objectives:*
         * You will understand how randomness can give rise to normally or exponentially distributed observations.
