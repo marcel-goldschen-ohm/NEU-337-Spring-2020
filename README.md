@@ -55,8 +55,6 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 :warning: Please note that the syllabus is subject to change. It is your responsibility to attend class in order to know what is going on.
 
-:construction: This syllabus is still a work in progress. Definitely look here first as there will be significant improvements, but the syllabus from last years course ([Spring 2019](https://github.com/marcel-goldschen-ohm/CompNeuroSpring2019)) will also give an impression of the topics to be covered.
-
 > 29 lectures, Midterm exam, Final exam
 
 * Jan-21-T: **Introduction to programming and Python.**
@@ -226,6 +224,22 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 * Mar-12-R: **Midterm Exam**
 * Mar-17-T: SPRING BREAK
 * Mar-19-R: SPRING BREAK
+
+Possible topics yet to be scheduled:
+
+GitHub,
+Linear Regression,
+Multiple Linear Regression,
+Ridge/Lasso Regression,
+Cross Validation,
+Nonlinear Regression,
+Principal Comonent Analysis,
+Classification,
+Random Forest,
+Neural Network,
+Bayesian Probability,
+GUIs
+
 * Mar-24-T:
     * :cyclone: *Objectives:*
 * Mar-26-R:
