@@ -47,9 +47,9 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 
 ## Grading
 
-| Homework | Exams   |
-| -------- | ------- |
-| 300 pts  | 200 pts |
+| Homework     | Exams   |
+| ------------ | ------- |
+| 200-300 pts  | 200 pts |
 
 ## Syllabus
 
@@ -80,7 +80,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will discuss the pitfall of unecessary code optimization.
         * You will be able to visualize data with basic plots.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-30-R)
+        * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-28-T)
     * *Data Sets:*
         * Any multi-dimensional data? Perhaps several examples?
 * Jan-28-T: **List comprehensions, Functions, Classes, Modules, etc.**
@@ -92,21 +92,21 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will be able to create and use modules.
         * You will appreciate that most available Python code is constructed as modules with classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Jan-30.ipynb (:alarm_clock: due *before* midnight Feb-06-R)
+        * (10 pts) homework-Jan-28-advanced.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
     * *Extra Credit:*
-        * Generators. Why the bother?
-* Jan-30-R: **Pseudocode and Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
+        * (5 pts) extracredit-Jan-28-generators.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
+* Jan-30-R: **Pseudocode and Readility** 
     * :cyclone: *Objectives:*
         * You will practice translating algorithms/word problems --> pseudo code --> code.
         * You will explore the benefits of using comments and variable names to enhance code readability with your fellow classmates.
+* Feb-04-T: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
+    * :cyclone: *Objectives:*
         * You will be able to generate random numbers.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
     * :pencil2: *Homework:*
-        * (20 pts) homework-Jan-28-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
-    * *Data Sets:*
-        * Visualize actual diffusion data?
-* Feb-04-T: **Probability Density/Mass Functions (PDFs/PMFs)**
+        * (20 pts) homework-Feb-04-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-11-T)
+* Feb-06-R: **Probability Density/Mass Functions (PDFs/PMFs)**
     * :cyclone: *Objectives:*
         * You will understand how randomness can give rise to normally or exponentially distributed observations.
         * You will be able to obtain a probability from a PDF.
@@ -117,22 +117,16 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will understand the difference between a PDF and a PMF.
         * You will be able to plot data distributions overlaid with best fit PMFs.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-04.ipynb (:alarm_clock: due *before* midnight Feb-11-T)
-    * *Data Sets:*
-        * Normally distributed data. Drug efficacy?
-        * Exponentially distributed data. Time intervals between neural spikes?
-* Feb-06-R: **Curve Fitting and Maximum Likelihood Optimization**
+        * (10 pts) homework-Feb-06-PDF.ipynb (:alarm_clock: due *before* midnight Feb-13-R)
+* Feb-11-T: **Curve Fitting and Maximum Likelihood Optimization**
     * *Objectives:*
         * You will be able to apply minimization algorithms to optimize the fit between a function and some data.
         * You will be able to enforce constraints such as parameter bounds and relations during optimization.
         * You will understand the benefit of working with loglikelihoods instead of likelihoods.
         * You will apply these concepts to obtain parameters for binomial or poisson PMFs that maximize their likelihood of explaining some data.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-06.ipynb (:alarm_clock: due *before* midnight Feb-13-R)
-    * *Data Sets:*
-        * Poisson distributed data. Neural firing rates?
-        * Binomially distributed data. Single-molecule bleach steps.
-* Feb-11-T: **Hypothesis Testing and the Central Limit Theorem**
+        * (10 pts) homework-Feb-11-MLE.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
+* Feb-13-R: **Hypothesis Testing and the Central Limit Theorem**
     * :cyclone: *Objectives:*
         * You will understand how to formulate a null and alternative hypothesis.
         * You will understand what a p-value is.
@@ -142,12 +136,10 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will understand why the Central Limit Theorem implies that t-tests are useful in many, although not all, cases.
         * You will be able to describe types of data where t-tests are not likely to be applicable.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-11.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
-    * *Data Sets:*
-        * Independent and related samples for t-test. Maybe drug effects in new or same population as placebo.
+        * (10 pts) homework-Feb-11-H0.ipynb (:alarm_clock: due *before* midnight Feb-20-R)
     * *Extra Credit:*
         * Write code illustrating the Central Limit Theorem.
-* Feb-13-R: **Bootstrap and Permutation tests**
+* Feb-18-T: **Bootstrap and Permutation tests**
     * :cyclone: *Objectives:*
         * You will be able to bootstrap a data set.
         * You will understand why bootstrapping is useful and under what circumstances it will not help you.
@@ -156,10 +148,8 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will understand the difference between parametric and nonparametric tests.
         * You will be able to list one benefit and one downside to nonparametric tests like bootstrap and permutation tests as compared to parameteric tests.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-13.ipynb (:alarm_clock: due *before* midnight Feb-20-R)
-    * *Data Sets:*
-        * Time intervals between neural spikes before and after drug?
-* Feb-18-T: **Timeseries**
+        * (10 pts) homework-Feb-18-bootstrap.ipynb (:alarm_clock: due *before* midnight Feb-25-T)
+* Feb-20-R: **Timeseries**
     * :cyclone: *Objectives:*
         * You will be able to explain the concepts of sampling, Nyquist frequency, subsampling and aliasing.
         * You will be able to quantify the autocorrelation of a timeseries, and explain what it means.
@@ -168,12 +158,8 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will be able to plot a power spectrum for a timeseries and interpret it.
         * You will be able to plot a spectrogram for a timeseries and interpret it.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-18.ipynb (:alarm_clock: due *before* midnight Feb-25-T)
-    * *Data Sets:*
-        * Brain EEG, cardiac EEG.
-        * single cell membrane voltage in current-clamp.
-        * Single channel recording.
-* Feb-20-R: **Filtering**
+        * (10 pts) homework-Feb-18-timeseries.ipynb (:alarm_clock: due *before* midnight Feb-27-R)
+* Feb-25-T: **Filtering**
     * :cyclone: *Objectives:*
         * You will be able to filter a timeseries by manipulating its Fourier frequency domain.
         * You will be able to filter a timeseries by convolving it with another timeseries.
@@ -183,15 +169,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will be able to filter 2D image filters using convolution.
         * Motivate: Convolutional Neural Networks (CNNs) that are the basis for most image recognition.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-20.ipynb (:alarm_clock: due *before* midnight Feb-27-R)
-* Feb-25-T: **Feature detection**
-    * :cyclone: *Objectives:*
-        * Detecting image features using filters.
-        * Detecting timeseries features.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-25.ipynb (:alarm_clock: due *before* midnight Mar-03-T)
-    * *Data Sets:*
-        * EEG, Single cell or field potential membrane voltage.
+        * (10 pts) homework-Feb-18-filtering.ipynb (:alarm_clock: due *before* midnight Mar-03-T)
 * Feb-27-R: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
         * Memoryless
@@ -201,9 +179,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * Number of distinguishable states
         * Filtering single molecule timeseries
     * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-27.ipynb (:alarm_clock: due *before* midnight Mar-05-R)
-    * *Data Sets:*
-        * Single-channel recordings --> discrete states
+        * (10 pts) homework-Feb-27-HMM.ipynb (:alarm_clock: due *before* midnight Mar-05-R)
 * Mar-03-T: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
         * Non-observable states
@@ -212,14 +188,8 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * Which model is best?
         * Bayesian and Akaike Information Criteria
     * :pencil2: *Homework:*
-        * (10 pts) homework-Mar-03.ipynb (:alarm_clock: due *before* midnight Mar-10-T)
-    * *Data Sets:*
-        * Single cell membrane voltage --> refractory, approach threshold, spike
-        * Neural spiking --> low activity, high activity, bursting
-* Mar-05-R: **Hidden Markov Models (HMMs)**
-    * :cyclone: *Objectives:*
-    * :pencil2: *Homework (10 pts):*
-        * homework-Mar-05.ipynb (:alarm_clock: due *before* midnight Mar-12-R)
+        * (10 pts) homework-Mar-03-HMM.ipynb (:alarm_clock: due *before* midnight Mar-10-T)
+* Mar-05-R: 
 * Mar-10-T: **Review**
 * Mar-12-R: **Midterm Exam**
 * Mar-17-T: SPRING BREAK
@@ -241,31 +211,18 @@ Bayesian Probability,
 GUIs
 
 * Mar-24-T:
-    * :cyclone: *Objectives:*
 * Mar-26-R:
-    * :cyclone: *Objectives:*
 * Mar-31-T:
-    * :cyclone: *Objectives:*
 * Apr-02-R:
-    * :cyclone: *Objectives:*
 * Apr-07-T:
-    * :cyclone: *Objectives:*
 * Apr-09-R:
-    * :cyclone: *Objectives:*
 * Apr-14-T:
-    * :cyclone: *Objectives:*
 * Apr-16-R:
-    * :cyclone: *Objectives:*
 * Apr-21-T:
-    * :cyclone: *Objectives:*
 * Apr-23-R:
-    * :cyclone: *Objectives:*
 * Apr-28-T:
-    * :cyclone: *Objectives:*
 * Apr-30-R:
-    * :cyclone: *Objectives:*
 * May-05-T:
-    * :cyclone: *Objectives:*
 * May-07-R: **Review**
 * May-??(13-16,18-19): Final Exam (date will be that scheduled by the University)
 
