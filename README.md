@@ -81,8 +81,6 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * You will be able to visualize data with basic plots.
     * :pencil2: *Homework:*
         * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-28-T)
-    * *Data Sets:*
-        * Any multi-dimensional data? Perhaps several examples?
 * Jan-28-T: **List comprehensions, Functions, Classes, Modules, etc.**
     * :cyclone: *Objectives:*
         * You will be able to zip and unpack arrays.
