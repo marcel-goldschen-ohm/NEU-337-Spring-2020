@@ -93,7 +93,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
         * (10 pts) homework-Jan-28-advanced.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
     * *Extra Credit:*
         * (5 pts) extracredit-Jan-28-generators.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
-* Jan-30-R: **Pseudocode and Readility** 
+* Jan-30-R: **Pseudocode and Readability** 
     * :cyclone: *Objectives:*
         * You will practice translating algorithms/word problems --> pseudo code --> code.
         * You will explore the benefits of using comments and variable names to enhance code readability with your fellow classmates.
