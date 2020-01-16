@@ -196,6 +196,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 Possible topics yet to be scheduled:
 
 GitHub,
+Debugging,
 Linear Regression,
 Multiple Linear Regression,
 Ridge/Lasso Regression,
