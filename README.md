@@ -19,8 +19,11 @@
     * Office hours: R 3:30-5:00 PM, NHB 4.352 (or conference room 4.402 right around the corner)
     * **Please DO NOT email me directly!** Either message me through the course Canvas site or visit during office hours.
 * TA: Augustin Hennings
-    * Office hours:
-
+    * Office hours (SEA 2.218 - Lewis-Peacock Lab):
+        * W 1:45-3:45 PM 
+        * R 10:00 AM-12:00 PM
+    + Email: achennings@utexas.edu (Response within 24hrs - Please include `NEU337` in the subject line)
+ 
 ## I'm confused, but my schedule makes attending office hours difficult. What do I do?
 
 **!!! POST YOUR QUESTIONS ON CANVAS** where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
@@ -51,7 +54,7 @@ It is perfectly fine to work with your fellow students or anyone else on the hom
 | ------------ | ------- |
 | 200-300 pts  | 200 pts |
 
-## Hoework
+## Homework
 
 Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. Be sure to name the file `your_full_name.ipynb` OR `your_eid.ipynb`. Also note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT.
 
