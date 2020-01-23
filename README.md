@@ -15,6 +15,8 @@
  
 We will cover a wide array of topics rather than explore any one topic in great detail. Topics will be introduced at a level where you should be able to understand each concept and put them to use. However, realize up front that we may have only scratched the surface.
 
+*The goal of the course is to give you enough of a basic toolset that you will have the necessary foundation to develop programs for any concept that you understand.*
+
 ## Course Details
 
 * Time and Location: TR 2:00-3:30 PM, JGB 2.202
