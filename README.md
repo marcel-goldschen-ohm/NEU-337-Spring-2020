@@ -26,7 +26,7 @@ We will cover a wide array of topics rather than explore any one topic in great 
     * **Please DO NOT email me directly!** Either message me through the course Canvas site or visit during office hours.
 * TA: Augustin Hennings
     * Office hours (SEA 2.218 - Lewis-Peacock Lab):
-        * W 1:45-3:45 PM 
+        * W 1:45-3:15 PM 
         * R 10:00 AM-12:00 PM
     + Email: achennings@utexas.edu (Response within 24hrs - Please include `NEU337` in the subject line)
  
