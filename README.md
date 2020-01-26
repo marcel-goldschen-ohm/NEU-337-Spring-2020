@@ -104,9 +104,9 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will appreciate that most available Python code is constructed as modules with classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
         * You will be introduced to Numba as another method to accelerate code.
     * :pencil2: *Homework:*
-        * (10 pts) homework-Jan-28-advanced.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
+        * (10 pts) homework-Jan-30-advanced.ipynb (:alarm_clock: due *before* midnight Feb-06-R)
     * *Extra Credit:*
-        * (5 pts) extracredit-Jan-28-generators.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
+        * (5 pts) extracredit-Jan-30-generators.ipynb (:alarm_clock: due *before* midnight Feb-06-R)
 * Feb-04-T: **Pseudocode, Readability and Optimization** 
     * :cyclone: *Objectives:*
         * You will practice translating algorithms/word problems --> pseudo code --> code.
@@ -117,6 +117,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to generate random numbers.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
+    * :pencil2: *Homework:*
+        * (20 pts) homework-Feb-06-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-13-R)
 * Feb-11-T: **Probability Density/Mass Functions (PDFs/PMFs)**
     * :cyclone: *Objectives:*
         * You will understand how randomness can give rise to normally or exponentially distributed observations.
