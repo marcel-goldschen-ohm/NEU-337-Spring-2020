@@ -80,21 +80,21 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will understand the difference between mutable and immutable objects.
     * :pencil2: *Homework:*
         * (10 pts) homework-Jan-21-basics.ipynb (:alarm_clock: due *before* midnight Jan-28-T)
-* Jan-23-R: **Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome. Also basic plotting with matplotlib.**
+* Jan-23-R: **Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
     * :cyclone: *Objectives:*
         * You will be able to import and use modules.
         * You will be able to manipulate multi-dimensional data arrays using NumPy ndarrays.
         * You will be able to extract/manipulate specific sections of data from ndarrays.
         * You will be able to perform operations on ndarrays without explicilty coding the operation for each element in the array.
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-30-R)
+* Jan-28-T: **Timing your code and basic plotting with Matplotlib.**
+    * :cyclone: *Objectives:*
         * You will be able to time your code.
         * You will explore how NumPy can accelerate your code.
         * You will appreciate that without NumPy, Python would NOT be a very useful language for science or data analysis.
-        * You will be introduced to Numba as another method to accelerate code.
-        * You will discuss the pitfall of unecessary code optimization.
-        * You will be able to visualize data with basic plots.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-28-T)
-* Jan-28-T: **List comprehensions, Functions, Classes, Modules, etc.**
+        * You will be able to visualize data with basic plots using Matplotlib.
+* Jan-30-R: **List comprehensions, Functions, Classes, Modules, and Numba**
     * :cyclone: *Objectives:*
         * You will be able to zip and unpack arrays.
         * You will be able to use list comprehensions.
@@ -102,22 +102,22 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to create and use classes.
         * You will be able to create and use modules.
         * You will appreciate that most available Python code is constructed as modules with classes, so it's imperative to understand how they work even if you don't absolutely have to use them.
+        * You will be introduced to Numba as another method to accelerate code.
     * :pencil2: *Homework:*
         * (10 pts) homework-Jan-28-advanced.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
     * *Extra Credit:*
         * (5 pts) extracredit-Jan-28-generators.ipynb (:alarm_clock: due *before* midnight Feb-04-T)
-* Jan-30-R: **Pseudocode and Readability** 
+* Feb-04-T: **Pseudocode, Readability and Optimization** 
     * :cyclone: *Objectives:*
         * You will practice translating algorithms/word problems --> pseudo code --> code.
         * You will explore the benefits of using comments and variable names to enhance code readability with your fellow classmates.
-* Feb-04-T: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
+        * You will discuss the pitfall of unecessary code optimization.
+* Feb-06-R: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
     * :cyclone: *Objectives:*
         * You will be able to generate random numbers.
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
-    * :pencil2: *Homework:*
-        * (20 pts) homework-Feb-04-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-11-T)
-* Feb-06-R: **Probability Density/Mass Functions (PDFs/PMFs)**
+* Feb-11-T: **Probability Density/Mass Functions (PDFs/PMFs)**
     * :cyclone: *Objectives:*
         * You will understand how randomness can give rise to normally or exponentially distributed observations.
         * You will be able to obtain a probability from a PDF.
@@ -127,17 +127,13 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will understand how randomness can give rise to binomially or poisson distributed observations.
         * You will understand the difference between a PDF and a PMF.
         * You will be able to plot data distributions overlaid with best fit PMFs.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-06-PDF.ipynb (:alarm_clock: due *before* midnight Feb-13-R)
-* Feb-11-T: **Curve Fitting and Maximum Likelihood Optimization**
+* Feb-13-R: **Curve Fitting and Maximum Likelihood Optimization**
     * *Objectives:*
         * You will be able to apply minimization algorithms to optimize the fit between a function and some data.
         * You will be able to enforce constraints such as parameter bounds and relations during optimization.
         * You will understand the benefit of working with loglikelihoods instead of likelihoods.
         * You will apply these concepts to obtain parameters for binomial or poisson PMFs that maximize their likelihood of explaining some data.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-11-MLE.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
-* Feb-13-R: **Hypothesis Testing and the Central Limit Theorem**
+* Feb-18-T: **Hypothesis Testing and the Central Limit Theorem**
     * :cyclone: *Objectives:*
         * You will understand how to formulate a null and alternative hypothesis.
         * You will understand what a p-value is.
@@ -146,11 +142,9 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will understand what sort of data a t-test is relevant for.
         * You will understand why the Central Limit Theorem implies that t-tests are useful in many, although not all, cases.
         * You will be able to describe types of data where t-tests are not likely to be applicable.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-11-H0.ipynb (:alarm_clock: due *before* midnight Feb-20-R)
     * *Extra Credit:*
         * Write code illustrating the Central Limit Theorem.
-* Feb-18-T: **Bootstrap and Permutation tests**
+* Feb-20-R: **Bootstrap and Permutation tests**
     * :cyclone: *Objectives:*
         * You will be able to bootstrap a data set.
         * You will understand why bootstrapping is useful and under what circumstances it will not help you.
@@ -158,9 +152,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will understand for what specific question a permutaion test is relevant.
         * You will understand the difference between parametric and nonparametric tests.
         * You will be able to list one benefit and one downside to nonparametric tests like bootstrap and permutation tests as compared to parameteric tests.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-18-bootstrap.ipynb (:alarm_clock: due *before* midnight Feb-25-T)
-* Feb-20-R: **Timeseries**
+* Feb-25-T: **Timeseries**
     * :cyclone: *Objectives:*
         * You will be able to explain the concepts of sampling, Nyquist frequency, subsampling and aliasing.
         * You will be able to quantify the autocorrelation of a timeseries, and explain what it means.
@@ -170,7 +162,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to plot a spectrogram for a timeseries and interpret it.
     * :pencil2: *Homework:*
         * (10 pts) homework-Feb-18-timeseries.ipynb (:alarm_clock: due *before* midnight Feb-27-R)
-* Feb-25-T: **Filtering**
+* Feb-27-R: **Filtering**
     * :cyclone: *Objectives:*
         * You will be able to filter a timeseries by manipulating its Fourier frequency domain.
         * You will be able to filter a timeseries by convolving it with another timeseries.
@@ -179,9 +171,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to visualize 2D images.
         * You will be able to filter 2D image filters using convolution.
         * Motivate: Convolutional Neural Networks (CNNs) that are the basis for most image recognition.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-18-filtering.ipynb (:alarm_clock: due *before* midnight Mar-03-T)
-* Feb-27-R: **Hidden Markov Models (HMMs)**
+* Mar-03-T: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
         * Memoryless
         * Rate constants
@@ -189,18 +179,13 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * Exponential (geometric) dwell time distributions
         * Number of distinguishable states
         * Filtering single molecule timeseries
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-27-HMM.ipynb (:alarm_clock: due *before* midnight Mar-05-R)
-* Mar-03-T: **Hidden Markov Models (HMMs)**
+* Mar-05-R: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
         * Non-observable states
         * Gaussian Mixture Models (GMMs) <-- covered in clustering section
         * Baum-Welch optimization
         * Which model is best?
         * Bayesian and Akaike Information Criteria
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Mar-03-HMM.ipynb (:alarm_clock: due *before* midnight Mar-10-T)
-* Mar-05-R: 
 * Mar-10-T: **Review**
 * Mar-12-R: **Midterm Exam**
 * Mar-17-T: SPRING BREAK
