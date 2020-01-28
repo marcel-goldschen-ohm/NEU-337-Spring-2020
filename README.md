@@ -76,8 +76,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be introduced to some good rules of thumb for programming.
         * You will be able to run Python code in the Jupyter notebook environemnt.
         * You will be able to associate values with appropriate variable types.
+        * You will be able to query and respond to true/false statements.
         * You will be able to index and iterate over lists of values.
-        * You will understand the difference between mutable and immutable objects.
     * :pencil2: *Homework:*
         * (10 pts) homework-Jan-21-basics.ipynb (:alarm_clock: due *before* midnight Jan-28-T)
 * Jan-23-R: **Working with NumPy multi-dimensional arrays (ndarray) - otherwise Python is just too slow and cumbersome.**
@@ -86,6 +86,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to manipulate multi-dimensional data arrays using NumPy ndarrays.
         * You will be able to extract/manipulate specific sections of data from ndarrays.
         * You will be able to perform operations on ndarrays without explicilty coding the operation for each element in the array.
+        * You will understand the difference between mutable and immutable objects.
     * :pencil2: *Homework:*
         * (10 pts) homework-Jan-23-numpy.ipynb (:alarm_clock: due *before* midnight Jan-30-R)
 * Jan-28-T: **Timing your code and basic plotting with Matplotlib.**
@@ -112,6 +113,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will practice translating algorithms/word problems --> pseudo code --> code.
         * You will explore the benefits of using comments and variable names to enhance code readability with your fellow classmates.
         * You will discuss the pitfall of unecessary code optimization.
+    * :pencil2: *Homework:*
+        * (8 pts) homework-Feb-04-pseudocode.ipynb (:alarm_clock: due *before* midnight Feb-11-T)
 * Feb-06-R: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
     * :cyclone: *Objectives:*
         * You will be able to generate random numbers.
