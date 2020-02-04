@@ -111,10 +111,12 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Feb-04-T: **Pseudocode, Readability and Optimization** 
     * :cyclone: *Objectives:*
         * You will practice translating algorithms/word problems --> pseudo code --> code.
-        * You will explore the benefits of using comments and variable names to enhance code readability with your fellow classmates.
+        * You will discuss the benefits of using comments and variable names to enhance code readability.
         * You will discuss the pitfall of unecessary code optimization.
     * :pencil2: *Homework:*
         * (8 pts) homework-Feb-04-pseudocode.ipynb (:alarm_clock: due *before* midnight Feb-11-T)
+    * :pencil2: *Extra Credit:*
+        * (4 pts) extracredit-Feb-04-quicksort.ipynb (:alarm_clock: due *before* midnight Feb-11-T)
 * Feb-06-R: **Random Walk Lab - simulating molecular diffusion as a consequence of randomness.**
     * :cyclone: *Objectives:*
         * You will be able to generate random numbers.
