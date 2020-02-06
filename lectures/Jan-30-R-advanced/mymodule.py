@@ -4,7 +4,7 @@
 A more lengthy explanation of the module if needed.
 This can be as many lines as you want.
 
-Modules can contain any number of classes.
+Modules can contain any number of things.
 """
 
 class vec3:
