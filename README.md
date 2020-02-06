@@ -123,7 +123,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
         * You will appreciate the role of randomness in molecular diffusion.
     * :pencil2: *Homework:*
-        * (20 pts) homework-Feb-06-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-13-R)
+        * (20 pts) homework-Feb-06-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
 * Feb-11-T: **Probability Density/Mass Functions (PDFs/PMFs)**
     * :cyclone: *Objectives:*
         * You will understand how randomness can give rise to normally or exponentially distributed observations.
