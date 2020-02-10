@@ -124,22 +124,24 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will appreciate the role of randomness in molecular diffusion.
     * :pencil2: *Homework:*
         * (20 pts) homework-Feb-06-randomwalk.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
-* Feb-11-T: **Probability Density/Mass Functions (PDFs/PMFs)**
+* Feb-11-T: **Probability Distributions of Random Variables**
     * :cyclone: *Objectives:*
-        * You will understand how randomness can give rise to normally or exponentially distributed observations.
+        * You will understand the difference between discrete and continuous random variables.
+        * You will understand the difference between probability mass functions (PMFs) and probability density functions (PDFs).
         * You will be able to obtain a probability from a PDF.
-        * You will understand the difference between a probability and a likelihood.
-        * You will be able to obtain parameters for normal or exponential PDFs that maximize their likelihood of explaining some data.
-        * You will be able to plot data distributions overlaid with best fit PDFs.
-        * You will understand how randomness can give rise to binomially or poisson distributed observations.
-        * You will understand the difference between a PDF and a PMF.
-        * You will be able to plot data distributions overlaid with best fit PMFs.
+        * You will be able to obtain statistics such as mean and variance from a probability distribution.
+        * You will be able to plot probability distributions.
+        * You will understand that different processes give rise to different types of distributions of random variables.
+        * You will be able to identify types of data described by binomial, poisson, exponential and normal distributions.
+    * :pencil2: *Homework:*
+        * (9 pts) homework-Feb-11-probdist.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
 * Feb-13-R: **Curve Fitting and Maximum Likelihood Optimization**
     * *Objectives:*
+        * You will be able to fit model distributions to data to infer parameters of rhe distributions from which the random data samples were obtained.
         * You will be able to apply minimization algorithms to optimize the fit between a function and some data.
         * You will be able to enforce constraints such as parameter bounds and relations during optimization.
         * You will understand the benefit of working with loglikelihoods instead of likelihoods.
-        * You will apply these concepts to obtain parameters for binomial or poisson PMFs that maximize their likelihood of explaining some data.
+        * You will apply these concepts to obtain maximum likelihood fits of nontrivial probability distributions to samples of random variables.
 * Feb-18-T: **Hypothesis Testing and the Central Limit Theorem**
     * :cyclone: *Objectives:*
         * You will understand how to formulate a null and alternative hypothesis.
