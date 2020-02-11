@@ -134,7 +134,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will understand that different processes give rise to different types of distributions of random variables.
         * You will be able to identify types of data described by binomial, poisson, exponential and normal distributions.
     * :pencil2: *Homework:*
-        * (9 pts) homework-Feb-11-probdist.ipynb (:alarm_clock: due *before* midnight Feb-18-T)
+        * (9 pts) homework-Feb-11-probdist.ipynb (:alarm_clock: due *before* midnight Feb-20-R)
 * Feb-13-R: **Curve Fitting and Maximum Likelihood Optimization**
     * *Objectives:*
         * You will be able to fit model distributions to data to infer parameters of rhe distributions from which the random data samples were obtained.
