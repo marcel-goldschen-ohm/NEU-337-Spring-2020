@@ -155,8 +155,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will understand what sort of data a t-test is relevant for.
         * You will understand why the Central Limit Theorem implies that t-tests are useful in many, although not all, cases.
         * You will be able to describe types of data where t-tests are not likely to be applicable.
-    * *Extra Credit:*
-        * Write code illustrating the Central Limit Theorem.
+    * :pencil2: *Homework:*
+        * (9 pts) homework-Feb-25-hypothesis.ipynb (:alarm_clock: due *before* midnight Mar-03-T)
 * Feb-27-R: **Bootstrap and Permutation tests**
     * :cyclone: *Objectives:*
         * You will be able to bootstrap a data set.
@@ -165,6 +165,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will understand for what specific question a permutaion test is relevant.
         * You will understand the difference between parametric and nonparametric tests.
         * You will be able to list one benefit and one downside to nonparametric tests like bootstrap and permutation tests as compared to parameteric tests.
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Feb-27-bootstrap.ipynb (:alarm_clock: due *before* midnight Mar-05-R)
 * Mar-03-T: **Timeseries**
     * :cyclone: *Objectives:*
         * You will be able to explain the concepts of sampling, Nyquist frequency, subsampling and aliasing.
@@ -173,8 +175,6 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to predict how changes in frequency domain components will affect the time domain signal.
         * You will be able to plot a power spectrum for a timeseries and interpret it.
         * You will be able to plot a spectrogram for a timeseries and interpret it.
-    * :pencil2: *Homework:*
-        * (10 pts) homework-Feb-18-timeseries.ipynb (:alarm_clock: due *before* midnight Feb-27-R)
 * Mar-05-R: **Filtering**
     * :cyclone: *Objectives:*
         * You will be able to filter a timeseries by manipulating its Fourier frequency domain.
