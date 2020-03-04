@@ -167,23 +167,26 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to list one benefit and one downside to nonparametric tests like bootstrap and permutation tests as compared to parameteric tests.
     * :pencil2: *Homework:*
         * (10 pts) homework-Feb-27-bootstrap.ipynb (:alarm_clock: due *before* midnight Mar-05-R)
-* Mar-03-T: **Timeseries**
+* Mar-03-T: **Timeseries, Autocorrelation and Convolution**
     * :cyclone: *Objectives:*
         * You will be able to explain the concepts of sampling, Nyquist frequency, subsampling and aliasing.
         * You will be able to quantify the autocorrelation of a timeseries, and explain what it means.
+        * You will be able to filter a timeseries by convolving it with another timeseries.
+        * You will be able to predict the result of filtering by convolution with simple functions.
+        * You will be able to visualize 2D images.
+        * You will be able to filter 2D image filters using convolution.
+        * Motivate: Convolutional Neural Networks (CNNs) that are the basis for most image recognition.
+* Mar-05-R: **Fourier Transforms and Filtering**
+    * :cyclone: *Objectives:*
         * You will be able to apply Fourier analysis to a time series and explain what the frequency domain features represent.
         * You will be able to predict how changes in frequency domain components will affect the time domain signal.
         * You will be able to plot a power spectrum for a timeseries and interpret it.
         * You will be able to plot a spectrogram for a timeseries and interpret it.
-* Mar-05-R: **Filtering**
-    * :cyclone: *Objectives:*
         * You will be able to filter a timeseries by manipulating its Fourier frequency domain.
-        * You will be able to filter a timeseries by convolving it with another timeseries.
-        * You will be able to predict the result of filtering by convolution with simple functions. 
+        * You will be able to filter a timeseries using digital lowpass, highpass and bandpass filters.
         * You will be able to subsample without aliasing.
-        * You will be able to visualize 2D images.
-        * You will be able to filter 2D image filters using convolution.
-        * Motivate: Convolutional Neural Networks (CNNs) that are the basis for most image recognition.
+    * :pencil2: *Homework:*
+        * (10 pts) homework-Mar-05-timeseries.ipynb (:alarm_clock: due *before* midnight Mar-10-T)
 * Mar-10-T: **TBA**
 * Mar-12-R: **Midterm Exam**
 * Mar-17-T: SPRING BREAK
