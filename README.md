@@ -187,7 +187,17 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to subsample without aliasing.
     * :pencil2: *Homework:*
         * (10 pts) homework-Mar-05-timeseries.ipynb (:alarm_clock: due *before* midnight Mar-10-T)
-* Mar-10-T: **TBA**
+* Mar-10-T: **Simple File I/O and Pandas Dataframes**
+    * :cyclone: *Objectives:*
+        * You will be able to read and write text files.
+        * You will be able to read and write binary files.
+        * You will be able to read/write NumPy arrays from/to file.
+        * You will be able to read/write data files using Pickle.
+        * You will understand when NOT to use Pickle.
+        * You will be able to read/write JSON data files.
+        * You will be able to work with data in Pandas Dataframes.
+        * You will be able to visualize data in Pandas Dataframes.
+        * You will be able to read/write Pandas Dataframes from/to spreadsheet files (e.g. CSV, Excel).
 * Mar-12-R: **Midterm Exam**
 * Mar-17-T: SPRING BREAK
 * Mar-19-R: SPRING BREAK
