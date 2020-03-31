@@ -199,6 +199,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will be able to visualize data in Pandas Dataframes.
         * You will be able to read/write Pandas Dataframes from/to spreadsheet files (e.g. CSV, Excel).
 * Mar-12-R: **Midterm Exam**
+
 * Mar-17-T: SPRING BREAK
 * Mar-19-R: SPRING BREAK
 * Mar-24-T: EXTENDED SPRING BREAK DUE TO COVID-19
