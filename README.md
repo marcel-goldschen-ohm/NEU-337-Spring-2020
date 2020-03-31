@@ -138,7 +138,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Feb-13-R: **Requested Review**
 * Feb-18-T: **Canceled**
 * Feb-20-R: **Curve Fitting, Optimization and Maximum Likelihood Estimation (MLE)**
-    * *Objectives:*
+    * :cyclone: *Objectives:*
         * You will be able to apply minimization algorithms to optimize the fit between a function and some data.
         * You will be able to enforce constraints such as parameter bounds and relations during optimization.
         * You will be able to fit model distributions to data to infer parameters of the distributions from which the random data samples were obtained.
