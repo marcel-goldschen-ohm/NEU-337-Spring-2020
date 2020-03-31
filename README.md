@@ -201,50 +201,43 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Mar-12-R: **Midterm Exam**
 * Mar-17-T: SPRING BREAK
 * Mar-19-R: SPRING BREAK
+* Mar-24-T: EXTENDED SPRING BREAK DUE TO COVID-19
+* Mar-26-R: EXTENDED SPRING BREAK DUE TO COVID-19
 
-* Mar-24-T: **Hidden Markov Models (HMMs)**
+!!! ALL REMAINING CLASSES (AND OFFICE HOURS) ARE ONLINE ONLY VIA ZOOM DUE TO COVID-19. See the Canvas front page for a link to the class Zoom meeting.
+
+* Mar-31-T: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
-        * Memoryless
-        * Rate constants
-        * Eyring transition state theory
-        * Exponential (geometric) dwell time distributions
-        * Number of distinguishable states
-        * Filtering single molecule timeseries
-* Mar-26-R: **Hidden Markov Models (HMMs)**
+        * You will understand the basic principles of a Markov system.
+        * You will understand how transition rates are related to per time step transition probabilities.
+        * You will understand what is hidden.
+        * You will understand the relation between hidden state sequences and observed data sequences.
+        * You will understand that states emit random observables (drawn from probability distributions).
+        * You will understand how filtering can alter your model predictions.
+        * You will be able to idealize a piecewise continuous data sequence using thresholds.
+        * You will be able to idealize a piecewise continuous data sequence using a Gaussian Mixture Model (GMM).
+* Apr-02-R: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
-        * Non-observable states
-        * Gaussian Mixture Models (GMMs) <-- covered in clustering section
-        * Baum-Welch optimization
-        * Which model is best?
-        * Bayesian and Akaike Information Criteria
+        * You will recall that state lifetimes are exponentially distributed.
+        * You will appreciate the benefit of visualizing lifetime distributions on a logscale.
+        * You will see how states can be classified by both amplitude and lifetime.
+        * You will learn how to optimize an HMM to fit an observed data sequence.
+        * You will lernn one method for choosing amongst multiple possible HMMs.
+    * :pencil2: *Homework:*
+        * (20 pts) homework-Apr-02-hmm.ipynb (:alarm_clock: due *before* midnight Apr-14-T)
 
-Possible topics yet to be scheduled:
+Tentative topics to be covered:
 
-GitHub,
-Debugging,
-Linear Regression,
-Multiple Linear Regression,
-Ridge/Lasso Regression,
-Cross Validation,
-Nonlinear Regression,
-Principal Comonent Analysis,
-Classification,
-Random Forest,
-Neural Network,
-Bayesian Probability,
-GUIs
+* Apr-07-T: Linear Regression
+* Apr-09-R: Multiple Linear Regression
+* Apr-14-T: Ridge/Lasso Regression
+* Apr-16-R: Cross Validation
+* Apr-21-T: Nonlinear Regression
+* Apr-23-R: Classification
+* Apr-28-T: Principal Comonent Analysis
 
-* Mar-24-T:
-* Mar-26-R:
-* Mar-31-T:
-* Apr-02-R:
-* Apr-07-T:
-* Apr-09-R:
-* Apr-14-T:
-* Apr-16-R:
-* Apr-21-T:
-* Apr-23-R:
-* Apr-28-T:
+More potential topics: GitHub, Debugging, Random Forest, Neural Network, Bayesian Probability, GUIs
+
 * Apr-30-R:
 * May-05-T:
 * May-07-R: **Review**
