@@ -204,7 +204,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Mar-24-T: EXTENDED SPRING BREAK DUE TO COVID-19
 * Mar-26-R: EXTENDED SPRING BREAK DUE TO COVID-19
 
-!!! ALL REMAINING CLASSES (AND OFFICE HOURS) ARE ONLINE ONLY VIA ZOOM DUE TO COVID-19. See the Canvas front page for a link to the class Zoom meeting.
+**!!! ALL REMAINING CLASSES (AND OFFICE HOURS) ARE ONLINE ONLY VIA ZOOM DUE TO COVID-19.** See the Canvas front page for a link to the class Zoom meeting.
 
 * Mar-31-T: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
