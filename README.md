@@ -216,31 +216,26 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will understand that states emit random observables (drawn from probability distributions).
         * You will understand how filtering can alter your model predictions.
         * You will be able to idealize a piecewise continuous data sequence using thresholds.
-        * You will be able to idealize a piecewise continuous data sequence using a Gaussian Mixture Model (GMM).
 * Apr-02-R: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
+        * You will be able to idealize a piecewise continuous data sequence using a Gaussian Mixture Model (GMM).
         * You will recall that state lifetimes are exponentially distributed.
-        * You will appreciate the benefit of visualizing lifetime distributions on a logscale.
         * You will see how states can be classified by both amplitude and lifetime.
+        * You will appreciate the benefit of visualizing lifetime distributions on a logscale.
+* Apr-07-T: **Hidden Markov Models (HMMs)**
+    * :cyclone: *Objectives:*
         * You will learn how to optimize an HMM to fit an observed data sequence.
         * You will lernn one method for choosing amongst multiple possible HMMs.
     * :pencil2: *Homework:*
-        * (20 pts) homework-Apr-02-hmm.ipynb (:alarm_clock: due *before* midnight Apr-14-T)
-
-Tentative topics to be covered:
-
-* Apr-07-T: Linear Regression
-* Apr-09-R: Multiple Linear Regression
-* Apr-14-T: Ridge/Lasso Regression
-* Apr-16-R: Cross Validation
-* Apr-21-T: Nonlinear Regression
-* Apr-23-R: Classification
-* Apr-28-T: Principal Comonent Analysis
-
-More potential topics: GitHub, Debugging, Random Forest, Neural Network, Bayesian Probability, GUIs
-
-* Apr-30-R:
-* May-05-T:
+        * (20 pts) homework-Apr-02-hmm.ipynb (:alarm_clock: due *before* midnight Apr-16-R)
+* Apr-09-R: **Linear Regression**
+* Apr-14-T: **Multiple Linear Regression**
+* Apr-16-R: **Ridge/Lasso Regression**
+* Apr-21-T: **Cross Validation**
+* Apr-23-R: **Nonlinear Regression**
+* Apr-28-T: **Classification**
+* Apr-30-R: **Principal Comonent Analysis**
+* May-05-T: **GitHub**
 * May-07-R: **Review**
 * May-??(13-16,18-19): Final Exam (date will be that scheduled by the University)
 
