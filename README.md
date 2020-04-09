@@ -225,7 +225,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Apr-07-T: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
         * You will learn how to optimize an HMM to fit an observed data sequence.
-        * You will lernn one method for choosing amongst multiple possible HMMs.
+        * You will learn one method for choosing amongst multiple possible HMMs.
     * :pencil2: *Homework:*
         * (20 pts) homework-Apr-02-hmm.ipynb (:alarm_clock: due *before* midnight Apr-16-R)
 * Apr-09-R: **Linear Regression**
