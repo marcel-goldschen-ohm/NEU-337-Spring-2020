@@ -22,7 +22,7 @@ We will cover a wide array of topics rather than explore any one topic in great 
 * Time and Location: TR 2:00-3:30 PM, JGB 2.202
 * Instructor: Marcel Goldschen-Ohm
     * Office: NHB 4.352
-    * Office hours: R 3:30-5:00 PM, NHB 4.352 (or conference room 4.402 right around the corner)
+    * Office hours: See the Canvas announcement.
     * **Please DO NOT email me directly!** Either message me through the course Canvas site or visit during office hours.
 * TA: Augustin Hennings
     * Office hours (SEA 2.218 - Lewis-Peacock Lab):
