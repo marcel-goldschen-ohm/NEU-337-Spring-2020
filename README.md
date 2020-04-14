@@ -234,7 +234,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Apr-21-T: **Cross Validation**
 * Apr-23-R: **Nonlinear Regression**
 * Apr-28-T: **Classification**
-* Apr-30-R: **Principal Comonent Analysis**
+* Apr-30-R: **Principal Component Analysis**
 * May-05-T: **GitHub**
 * May-07-R: **Review**
 * May-??(13-16,18-19): Final Exam (date will be that scheduled by the University)
