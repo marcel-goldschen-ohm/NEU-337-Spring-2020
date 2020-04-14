@@ -22,7 +22,7 @@ We will cover a wide array of topics rather than explore any one topic in great 
 * Time and Location: TR 2:00-3:30 PM, JGB 2.202
 * Instructor: Marcel Goldschen-Ohm
     * Office: NHB 4.352
-    * Office hours: R 3:30-5:00 PM, NHB 4.352 (or conference room 4.402 right around the corner)
+    * Office hours: See the Canvas announcement.
     * **Please DO NOT email me directly!** Either message me through the course Canvas site or visit during office hours.
 * TA: Augustin Hennings
     * Office hours (SEA 2.218 - Lewis-Peacock Lab):
@@ -225,7 +225,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Apr-07-T: **Hidden Markov Models (HMMs)**
     * :cyclone: *Objectives:*
         * You will learn how to optimize an HMM to fit an observed data sequence.
-        * You will lernn one method for choosing amongst multiple possible HMMs.
+        * You will learn one method for choosing amongst multiple possible HMMs.
     * :pencil2: *Homework:*
         * (20 pts) homework-Apr-02-hmm.ipynb (:alarm_clock: due *before* midnight Apr-16-R)
 * Apr-09-R: **Linear Regression**
