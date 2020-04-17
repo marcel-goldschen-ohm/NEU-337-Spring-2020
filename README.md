@@ -229,8 +229,27 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * :pencil2: *Homework:*
         * (20 pts) homework-Apr-02-hmm.ipynb (:alarm_clock: due *before* midnight Apr-16-R)
 * Apr-09-R: **Linear Regression**
+    * :cyclone: *Objectives:*
+        * You will be able to fit two correlated random variables to a linear model.
+        * You will be able to assess the goodness of your fit.
+        * You will be able to graphically visualize the confidence interval envelope of your fit.
 * Apr-14-T: **Multiple Linear Regression**
+    * :cyclone: *Objectives:*
+        * You will be able to fit a linear model to data for multiple random variables (features) as predictors of a target random variable.
+        * You will be able to interpret the model coefficients as the relative impact of each feature on the model's prediction for the target variable.
+        * You will be able to assess the goodness of your fit by visualizing confidence intervals for each of the model's coefficients.
+        * You will appreciate that features with relatively small weights do not contribute much to the model prediction and can possibly be discarded from the model.
+        * You will appreciate that correlations amongst feature variables can give rise to artifacts in the model fit.
+        * You will explore one method of dealing with these artifacts. e.g. Remove one of eahc pair of highly correlated features from the model.
+    * :pencil2: *Homework:*
+        * (15 pts) homework-linear_regression.ipynb (:alarm_clock: due *before* midnight Apr-23-R)
 * Apr-16-R: **Ridge/Lasso Regression**
+    * :cyclone: *Objectives:*
+        * You will appreciate why splitting your data into training and testing sets is such a valuable operation.
+        * You will use data split into train/test groups to perform Ridge and Lasso regression.
+        * You will see how the Ridge model alters the model flexibility in comparison to simple OLS linear regression and how that can help to mitigate artifacts due to correlations amongst your feature data.
+    * :pencil2: *Homework:*
+        * (12 pts) homework-regularization.ipynb (:alarm_clock: due *before* midnight Apr-28-T)
 * Apr-21-T: **Cross Validation**
 * Apr-23-R: **Nonlinear Regression**
 * Apr-28-T: **Classification**
