@@ -256,7 +256,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Apr-30-R: **Principal Component Analysis**
 * May-05-T: **GitHub**
 * May-07-R: **Review**
-* May-??(13-16,18-19): Final Exam (date will be that scheduled by the University)
+* May-??(13-16,18-19): Final Exam (date/time will be that scheduled by the University)
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (**latest version 3.x**) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
