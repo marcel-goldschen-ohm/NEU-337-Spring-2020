@@ -256,6 +256,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will appreciate that there is no one right way to split up your data.
         * You will understand the basic idea of cross validation is to determine how flexible of a model to use by evaluating its average performance over numerous ways to split the data into training/testing sets.
         * You will be able to apply K-fold cross validation to train a model by averaging the results of K splits of the data into training/testing(validation) sets.
+    * :pencil2: *Homework:*
+        * (16 pts) homework-cross_validation.ipynb
 * Apr-23-R: **Nonlinear Regression**
     * :cyclone: *Objectives:*
         * You will learn about and apply the nonparametric K Nearest Neighbors (KNN) model.
@@ -275,6 +277,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
         * You will appreciate that the principal components represent mixtures of the original data dimensions/features.
         * You will be able to apply PCA to image data.
         * You will be able to apply PCA to time series data.
+    * :pencil2: *Homework:*
+        * (pts) homework-pca.ipynb
 * May-05-T: **GitHub**
 * May-07-R: **Review**
 * May-19-T: Final Exam 9:00 AM - 12:00 PM
