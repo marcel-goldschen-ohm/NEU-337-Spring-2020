@@ -251,9 +251,30 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
     * :pencil2: *Homework:*
         * (12 pts) homework-regularization.ipynb (:alarm_clock: due *before* midnight Apr-28-T)
 * Apr-21-T: **Cross Validation**
+    * :cyclone: *Objectives:*
+        * You will appreciate why splitting your data into training and testing sets is such a valuable operation.
+        * You will appreciate that there is no one right way to split up your data.
+        * You will understand the basic idea of cross validation is to determine how flexible of a model to use by evaluating its average performance over numerous ways to split the data into training/testing sets.
+        * You will be able to apply K-fold cross validation to train a model by averaging the results of K splits of the data into training/testing(validation) sets.
 * Apr-23-R: **Nonlinear Regression**
+    * :cyclone: *Objectives:*
+        * You will learn about and apply the nonparametric K Nearest Neighbors (KNN) model.
+        * You will appreciate both the strengths and weaknesses of the KNN model as compared to an OLS, Ridge or Lasso model.
+        * You will be able to use cross validation to determine the optimal number of nearest neighbors to consider.
 * Apr-28-T: **Classification**
+    * :cyclone: *Objectives:*
+        * You will learn about and be able to apply several popular clustering/classification methods including k-means, mean shift, heirarchical agglomerative clustering, Gaussian mixture models and DBSCAN.
+        * You will appreciate that there is no one right way to cluster a data set, and that you will have to make a judgement call on the best method for your data.
+        * You will appreciate several strengths and weaknesses of the clustering methods covered.
+        * You will be able to use a metric such as the Bayesian information criterion to select the optimal number of clusters for a Guassian mixture model.
 * Apr-30-R: **Principal Component Analysis**
+    * :cyclone: *Objectives:*
+        * You will appreciate that PCA involves changing your perspective so that the largest variations in the data lie along the axes of a shifted/rotated coordinate system.
+        * You will understand how projecting your data onto a smaller number of PCA axes reduces the dimensionality of your data while minimizing the information loss.
+        * You will be able to apply PCA to data of any dimension.
+        * You will appreciate that the principal components represent mixtures of the original data dimensions/features.
+        * You will be able to apply PCA to image data.
+        * You will be able to apply PCA to time series data.
 * May-05-T: **GitHub**
 * May-07-R: **Review**
 * May-19-T: Final Exam 9:00 AM - 12:00 PM
